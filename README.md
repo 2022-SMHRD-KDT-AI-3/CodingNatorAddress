@@ -1,6 +1,9 @@
-# BeauGan
+<img src="https://user-images.githubusercontent.com/101972179/205330052-f2a43d31-524a-471a-bbcd-36a5eea2e68f.png"  width="400" />
 * 팀명 : 코딩네이터
 * 부트스트랩 프레임워크를 이용한 반응형 웹 페이지를 제작
+
+
+
 
 <br><br>
 
