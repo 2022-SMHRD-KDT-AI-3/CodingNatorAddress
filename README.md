@@ -1,8 +1,8 @@
 <img src="https://user-images.githubusercontent.com/101972179/205330052-f2a43d31-524a-471a-bbcd-36a5eea2e68f.png"  width="600" />
-<img src="https://user-images.githubusercontent.com/101972179/205330059-600161a1-7aa2-4d6c-a10a-26d321cac1bf.png"  width="800" />
-* 팀명 : 코딩네이터
+* 팀명 : 코딩네이터 <br>
 * 부트스트랩 프레임워크를 이용한 반응형 웹 페이지를 제작
-
+* 
+<img src="https://user-images.githubusercontent.com/101972179/205330059-600161a1-7aa2-4d6c-a10a-26d321cac1bf.png"  width="800" />
 * 시연영상 : https://drive.google.com/file/d/1JIyCs9oz1BkTQugiOwnLqDpvdmV2pHaL/view?usp=share_link
 * 발표 PPT : https://drive.google.com/file/d/1lmsUtCzsXQLX1kKhU6gv9yRskbC7Q0PJ/view?usp=sharing
 
