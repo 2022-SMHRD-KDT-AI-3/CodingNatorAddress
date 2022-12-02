@@ -4,7 +4,7 @@
 
 <h2>발표자료</h2>
 <img src="https://user-images.githubusercontent.com/101972179/205330059-600161a1-7aa2-4d6c-a10a-26d321cac1bf.png"  width="800" /><br>
-* 시연영상 : https://drive.google.com/file/d/1JIyCs9oz1BkTQugiOwnLqDpvdmV2pHaL/view?usp=share_link
+* 시연영상 : https://drive.google.com/file/d/1JIyCs9oz1BkTQugiOwnLqDpvdmV2pHaL/view?usp=share_link <br>
 * 발표 PPT : https://drive.google.com/file/d/1lmsUtCzsXQLX1kKhU6gv9yRskbC7Q0PJ/view?usp=sharing
 
 
